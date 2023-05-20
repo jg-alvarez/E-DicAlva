@@ -1,0 +1,8 @@
+1x Arduino Uno
+1x Proto Shield Uno
+1x 1kΩ Resistor
+1x 10kΩ Potentiometer
+1x Button
+1x 8x8 Led matrix
+1x MAX7219 module
+11x Jumper wire
